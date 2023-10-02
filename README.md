@@ -53,6 +53,10 @@ Execute the cells in the Main.ipynb notebook one by one, running them sequential
 
 
 
+https://github.com/Zouziszzm/Hindi_OCR_And_Translation/assets/63239385/8fdf072e-ba9e-4f59-9de4-e5a392c3153b
+
+
+
 
 ## Acknowledgements
 
